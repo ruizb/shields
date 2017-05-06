@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://rawgit.com/badges/shields/master/logo.svg"
-         height="130">
+         height="131">
 </p>
 <p align="center">
     <a href="https://www.gratipay.com/Shields/">
